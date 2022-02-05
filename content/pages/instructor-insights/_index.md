@@ -60,7 +60,19 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 36% Problem sets{{< br >}}- 20% First quiz{{< br >}}- 20% Second quiz{{< br >}}- 24% Third quiz{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 36% Problem sets
+- 20% First quiz
+- 20% Second quiz
+- 24% Third quiz
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------

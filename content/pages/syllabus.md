@@ -29,11 +29,60 @@ Turner, James E. _Atoms, Radiation, and Radiation Protection_. 3rd ed. Wiley-VCH
 Grading
 -------
 
-| ACTIVITIES | DESCRIPTIONS | PERCENTAGES |
-| --- | --- | --- |
-| Homeworks (9) | Simpler calculations, plus either a lab or a couple of difficult problems | 4% each (36% total) |
-| Quizzes 1 and 2 | Test your ability to use course topics intuitively and mathematically | 20% each (40% total) |
-| Quiz 3 | Culmulative questions covering the whole course | 24% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homeworks (9)
+{{< tdclose >}}
+{{< tdopen >}}
+Simpler calculations, plus either a lab or a couple of difficult problems
+{{< tdclose >}}
+{{< tdopen >}}
+4% each (36% total)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes 1 and 2
+{{< tdclose >}}
+{{< tdopen >}}
+Test your ability to use course topics intuitively and mathematically
+{{< tdclose >}}
+{{< tdopen >}}
+20% each (40% total)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+{{< tdopen >}}
+Culmulative questions covering the whole course
+{{< tdclose >}}
+{{< tdopen >}}
+24%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each homework assignment is given equal weight, 4% of your final grade. That means yes, showing a photo of your laser-cut lab jig counts as much as the radioactive scavenger hunt.
 
@@ -50,7 +99,7 @@ These will consist of open-ended questions, where you have to make key assumptio
 
 The laboratory component of each assignment should be submitted as a short scientific journal article. We'll provide a sample high-quality journal article, highlighting the type of organization, language, sections, and references that it should contain. Each article should contain:
 
-*   A <100 word abstract, which summarizes the main problem and results very briefly.
+*   A \<100 word abstract, which summarizes the main problem and results very briefly.
 *   An introduction, which puts the problem into context: Why it is important (and not because it was assigned).
 *   An experimental methods section, where you describe what you did.
 *   A results section, where you show all your raw and intermediate data.
@@ -78,41 +127,453 @@ In addition, all students must read the [MIT guidelines on academic honesty and 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Radiation History to the Present—Understanding the Discovery of the Neutron | &nbsp; |
-| 2 | Radiation Utilizing Technology | &nbsp; |
-| 3 | Nuclear Mass and Stability, Nuclear Reactions and Notation, Introduction to Cross Section | &nbsp; |
-| 4 | Binding Energy, the Semi-Empirical Liquid Drop Nuclear Model, and Mass Parabolas | Problem Set 1 due |
-| 5 | Mass Parabolas Continued, Stability, and Half-Life | &nbsp; |
-| 6 | The Q-Equation—The Most General Nuclear Reaction | &nbsp; |
-| 7 | Q-Equation Continued and Examples | &nbsp; |
-| 8 | Radioactive Decay—Modes, Energetics, and Trends | Problem Set 2 due |
-| 9 | Radioactive Decay Continued | &nbsp; |
-| 10 | Radioactive Decay Continued | &nbsp; |
-| 11 | Radioactivity and Series Radioactive Decays | Problem Set 3 due |
-| 12 | Numerical Examples of Activity, Half-Life, and Series Decay | &nbsp; |
-| 13 | Practical Radiation Counting Experiments—Solid Angle, Count Rates, Uncertainty, and Hands-On Gamma Counting and Nuclear Activation Analysis | &nbsp; |
-| 14 | Photon Interactions with Matter I—Interaction Methods and Gamma Spectral Identification | Problem Set 4 due |
-| 15 | Photon Interaction with Matter II—More Details, Shielding Calculations | Quiz 1: Energetics, Decay, and Half-Life |
-| 16 | Nuclear Reactor Construction and Operation | &nbsp; |
-| 17 | Ion-Nuclear Interactions I—Scattering and Stopping Power Derivation, Ion Range | &nbsp; |
-| 18 | Ion-Nuclear Interactions II—Bremsstrahlung, X-Ray Spectra, Cross Sections | &nbsp; |
-| 19 | Uses of Photon and Ion Nuclear Interactions—Characterization Techniques | Problem Set 5 due |
-| 20 | How Nuclear Energy Works | &nbsp; |
-| 21 | Neutron Transport | &nbsp; |
-| 22 | Simplifying Neutron Transport to Neutron Diffusion | Problem Set 6 due |
-| 23 | Solving the Neutron Diffusion Equation, and Criticality Relations | &nbsp; |
-| 24 | Transients, Feedback, and Time-Dependent Neutronics | &nbsp; |
-| 25 | Review of All Nuclear Interactions and Problem Set 7 Help | Problem Set 7 due |
-| 26 | Chernobyl—How It Happened | &nbsp; |
-| 27 | Nuclear Materials—Radiation Damage and Effects in Matter | &nbsp; |
-| 28 | Chernobyl Trip Report by Jake Hecla (a Former Student) | &nbsp; |
-| 29 | Nuclear Materials Science Continued | Quiz 2: Radiation Interactions, Shielding, and Energy Loss |
-| 30 | Radiation Dose, Dosimetry, and Background Radiation | &nbsp; |
-| 31 | Frontiers in Nuclear Medicine, Where One Finds Ionizing Radiation (Background and Other Sources) | Problem Set 8 due |
-| 32 | Chemical and Biological Effects of Radiation, Smelling Nuclear Bullshit | &nbsp; |
-| 33 | Long-Term Biological Effects of Radiation, Statistics, Radiation Risk | &nbsp; |
-| 34 | Radiation Hormesis | Problem Set 9 due |
-| 35 | Food Irradiation and Its Safety | &nbsp; |
-| &nbsp; | Quiz 3: Cumulative
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation History to the Present—Understanding the Discovery of the Neutron
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Utilizing Technology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Mass and Stability, Nuclear Reactions and Notation, Introduction to Cross Section
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Binding Energy, the Semi-Empirical Liquid Drop Nuclear Model, and Mass Parabolas
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Mass Parabolas Continued, Stability, and Half-Life
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Q-Equation—The Most General Nuclear Reaction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Q-Equation Continued and Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay—Modes, Energetics, and Trends
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay Continued
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay Continued
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactivity and Series Radioactive Decays
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical Examples of Activity, Half-Life, and Series Decay
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Practical Radiation Counting Experiments—Solid Angle, Count Rates, Uncertainty, and Hands-On Gamma Counting and Nuclear Activation Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Photon Interactions with Matter I—Interaction Methods and Gamma Spectral Identification
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Photon Interaction with Matter II—More Details, Shielding Calculations
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1: Energetics, Decay, and Half-Life
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Reactor Construction and Operation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Ion-Nuclear Interactions I—Scattering and Stopping Power Derivation, Ion Range
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Ion-Nuclear Interactions II—Bremsstrahlung, X-Ray Spectra, Cross Sections
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Uses of Photon and Ion Nuclear Interactions—Characterization Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+How Nuclear Energy Works
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron Transport
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Simplifying Neutron Transport to Neutron Diffusion
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Solving the Neutron Diffusion Equation, and Criticality Relations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Transients, Feedback, and Time-Dependent Neutronics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Review of All Nuclear Interactions and Problem Set 7 Help
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Chernobyl—How It Happened
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Materials—Radiation Damage and Effects in Matter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Chernobyl Trip Report by Jake Hecla (a Former Student)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Materials Science Continued
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2: Radiation Interactions, Shielding, and Energy Loss
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Dose, Dosimetry, and Background Radiation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Frontiers in Nuclear Medicine, Where One Finds Ionizing Radiation (Background and Other Sources)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical and Biological Effects of Radiation, Smelling Nuclear Bullshit
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Long-Term Biological Effects of Radiation, Statistics, Radiation Risk
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Hormesis
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Food Irradiation and Its Safety
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3: Cumulative
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
