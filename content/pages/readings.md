@@ -52,7 +52,7 @@ Radiation History to the Present—Understanding the Discovery of the Neutron
 {{< tdopen >}}
 
 
-Chadwick, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Possible Existence of a Neutron." (PDF)](http://web.mit.edu/22.54/resources/Chadwick.pdf) _Nature_ 129 (1932): 312.
+Chadwick, J. ["Possible Existence of a Neutron." (PDF)](http://web.mit.edu/22.54/resources/Chadwick.pdf) _Nature_ 129 (1932): 312.
 
 ———. "[The Existence of a Neutron](https://doi.org/10.1098/rspa.1932.0112)." _Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences_ 136, no. 830 (1932): 692.
 
@@ -321,7 +321,7 @@ Radioactive Decay Continued
 {{< tdopen >}}
 
 
-Wotiz, R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ionization Detectors." (PDF)](http://circuitcellar.com/wp-content/uploads/2012/06/CC2011110601.pdf) _Circuit Cellar_ 256 (2011): 60–65..  
+Wotiz, R. ["Ionization Detectors." (PDF)](http://circuitcellar.com/wp-content/uploads/2012/06/CC2011110601.pdf) _Circuit Cellar_ 256 (2011): 60–65..  
 _A simple explanation of the math & physics of ionization smoke detectors_
 
 
@@ -789,7 +789,7 @@ Review of All Nuclear Interactions and Problem Set 7 Help
 {{< tdopen >}}
 
 
-GenIV International Forum / OECD Nuclear Energy Agency. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Technology Roadmap Update for Generation IV Nuclear Energy Systems." (PDF - 2.8MB)](https://www.gen-4.org/gif/upload/docs/application/pdf/2014-03/gif-tru2014.pdf) January 2014.  
+GenIV International Forum / OECD Nuclear Energy Agency. ["Technology Roadmap Update for Generation IV Nuclear Energy Systems." (PDF - 2.8MB)](https://www.gen-4.org/gif/upload/docs/application/pdf/2014-03/gif-tru2014.pdf) January 2014.  
 _Skim for details about the advanced fission reactors being researched_
 
 
@@ -1052,7 +1052,7 @@ _A concise ten-point summary of typical radiation doses incurred by the general 
 
 Urbain, W. M. "General Effects of Ionizing Radiation on Foods" and "Wholesomeness of Irradiated Foods." Chapters 5 and 13 in _Food Irradiation_. Academic Press, 2012, pp. 118–23 and 269–75. ISBN: 9780124315853. \[Preview with [Google Books](http://books.google.com/books?id=3V5IndKfswEC&pg=PA118=onepage)\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What's Wrong With Food Irradiation?" (PDF)](https://www.organicconsumers.org/sites/default/files/what%27s%20wrong%20with%20food%20irradiation%202001.pdf) Organic Consumers Association, 2001.  
+["What's Wrong With Food Irradiation?" (PDF)](https://www.organicconsumers.org/sites/default/files/what%27s%20wrong%20with%20food%20irradiation%202001.pdf) Organic Consumers Association, 2001.  
 _Using your new knowledge from 22.01, point out and explain all the scientific mistakes in this article. Include primary sources as backup to your arguments_.
 
 Mercola, J. M. "[Never Buy Meat, Potatoes or Herbs With 'Treated by Radiation' on the Label](http://articles.mercola.com/sites/articles/archive/2011/11/05/why-are-your-spices--seasonings-exposed-to-half-a-billion-chest-xrays-worth-of-radiation.aspx)." 2011.  
@@ -1083,7 +1083,7 @@ Food Irradiation and Its Safety
 {{< tdopen >}}
 
 
-World Health Organization. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["High-Dose Irradiation: Wholesomeness of Food Irradiated With Doses Above 10kGy." (PDF - 4.2MB)](http://apps.who.int/iris/bitstream/10665/42203/1/WHO_TRS_890_%28part1%29.pdf) Report of Joint FAO / IAEA / WHO Study Group. 1999.
+World Health Organization. ["High-Dose Irradiation: Wholesomeness of Food Irradiated With Doses Above 10kGy." (PDF - 4.2MB)](http://apps.who.int/iris/bitstream/10665/42203/1/WHO_TRS_890_%28part1%29.pdf) Report of Joint FAO / IAEA / WHO Study Group. 1999.
 
 
 {{< tdclose >}}
