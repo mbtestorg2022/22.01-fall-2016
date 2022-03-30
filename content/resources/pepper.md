@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4ace3d6d-d3b4-c4a5-2cfe-09c6bce484cb
 resourcetype: Image
 title: pepper.jpg
 uid: 898755ce-3104-e859-562e-fa39d553cff9

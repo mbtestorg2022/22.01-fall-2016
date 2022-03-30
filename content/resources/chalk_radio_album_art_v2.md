@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: The logo of the Chalk Radio podcast
+parent_uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 resourcetype: Image
 title: Chalk Radio logo
 uid: fa044564-774e-40a4-1003-dde717e2f036
